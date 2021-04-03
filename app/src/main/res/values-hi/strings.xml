@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="schedule">अनुसूची</string>
+    <string name="math">गणित</string>
+    <string name="_23_jan_23_march">23 जनवरी - 23 मार्च</string>
+    <string name="startsession">शुरू</string>
+    <string name="_65">65 %</string>
+    <string name="_8_hours">8 घंटे</string>
+    <string name="_90_days_access">90 दिन की पहुंच</string>
+    <string name="_3_sessions">2 सत्र</string>
+    <string name="what_will_i_learn">मैं क्या सीखूंगा</string>
+    <string name="what_will_i_learn_android_details">एंड्रॉइड एक मोबाइल ऑपरेटिंग सिस्टम है जो लिनक्स कर्नेल और अन्य ओपन सोर्स सॉफ़्टवेयर के संशोधित संस्करण पर आधारित है, जो मुख्य रूप से स्मार्टफ़ोन और टैबलेट जैसे टचस्क्रीन मोबाइल उपकरणों के लिए डिज़ाइन किया गया है। इस कोर्स के बाद आप एंड्रॉइड प्लेटफॉर्म के लिए मोबाइल ऐप डिज़ाइन कर पाएंगे।</string>
+    <string name="what_will_i_learn_math_details">मैटमैटिक्स में मात्रा, संरचना, स्थान और परिवर्तन जैसे विषयों का अध्ययन शामिल है। इसकी कोई आम तौर पर स्वीकृत परिभाषा नहीं है। गणितज्ञ नए अनुमान लगाने के लिए प्रतिरूपों की तलाश और उपयोग करते हैं; वे गणितीय प्रमाण द्वारा इस तरह की सच्चाई या झूठ का समाधान करते हैं।</string>
+    <string name="what_will_i_learn_history_details">आपको दुनिया के इतिहास के साथ-साथ भारत के बारे में भी जानने को मिलेगा। इतिहास मूल रूप से तीन भागों में विभाजित है, प्राचीन, मध्यकालीन, आधुनिक। प्राचीन इतिहास में आप राजाओं और उनके साम्राज्य के बारे में जानेंगे लेकिन हम मुख्य रूप से आधुनिक इतिहास पर ध्यान केंद्रित करेंगे।</string>
+    <string name="what_will_i_learn_science_details">विज्ञान एक व्यवस्थित उद्यम है जो ब्रह्मांड के बारे में परीक्षण योग्य स्पष्टीकरण और भविष्यवाणियों के रूप में ज्ञान का निर्माण और आयोजन करता है। आप हालिया शोध और विभिन्न विषयों जैसे किनेमेटिक्स, वेव्स, थर्मोडायनामिक्स आदि के बारे में जानेंगे।</string>
+    <string name="Skill_you_gain">कौशल आप लाभ</string>
+
+    <string name="_1_programming">1. कोडिंग।</string>
+    <string name="_2_r_programming_and_its_packages">2. android sdk और सपोर्ट लाइब्रेरी के उपयोग के बारे में</string>
+    <string name="_3_algorithm">3. एल्गोरिथ्म</string>
+
+    <string name="_1_calculus">1. पथरी।</string>
+    <string name="_2_r_integration">2. एकीकरण</string>
+    <string name="_3_Probability">3. संभावना</string>
+
+    <string name="_1_medival">1. मध्यकालीन इतिहास।</string>
+    <string name="_2_ancient">2. प्राचीन इतिहास</string>
+    <string name="_3_modern">3. आधुनिक इतिहास</string>
+
+    <string name="_1_practice_roblems">1. समस्याओं का अभ्यास करें।</string>
+    <string name="_2_theory">2. गहन सैद्धांतिक ज्ञान</string>
+    <string name="_3_basic">3. मूल अवधारणाएँ</string>
+
+    <string name="_1_android_basic">1. एंड्रॉइड बेसिक</string>
+    <string name="_2_activity_lifecycle">2. गतिविधि जीवनचक्र</string>
+    <string name="fragment">3. टुकड़ा</string>
+    <string name="_1_1_androidbasic_chapter_1">1.1 Android मूल अध्याय 1</string>
+    <string name="_1_2_androidbasic_chapter_2">1.2 Android मूल अध्याय 2</string>
+    <string name="_2_1_activitylifecycle_chapter_1">2.1 गतिविधि जीवनचक्र अध्याय 1</string>
+    <string name="_2_2_activitylifecycle_chapter_2">2.2 गतिविधि जीवनचक्र अध्याय 2</string>
+    <string name="_3_1_fragment_chapter_1">3.1 खंड अध्याय 1</string>
+    <string name="_3_2_fragment_chapter_2">3.2 खंड अध्याय 2</string>
+
+    <string name="_1_ancient">1. प्राचीन इतिहास</string>
+    <string name="_2_medieval">2. मध्यकालीन इतिहास</string>
+    <string name="modern">3. आधुनिक इतिहास</string>
+    <string name="_1_1_Ancient_chapter_1">1.1 प्राचीन इतिहास अध्याय 1</string>
+    <string name="_1_2_Ancient_chapter_2">1.2 प्राचीन इतिहास अध्याय 2</string>
+    <string name="_2_1_medieval_chapter_1">2.1 मध्यकालीन इतिहास अध्याय 1</string>
+    <string name="_2_2_medieval_chapter_2">2.2 मध्यकालीन इतिहास अध्याय 2</string>
+    <string name="_3_1_modern_chapter_1">3.1 आधुनिक इतिहास का अध्याय 1</string>
+    <string name="_3_2_modern_chapter_2">3.2 आधुनिक इतिहास 2</string>
+
+    <string name="_1_science_basic">1. साइंस बेसिक</string>
+    <string name="_2_waves">2. लहर</string>
+    <string name="thermodynamics">3. ऊष्मप्रवैगिकी</string>
+    <string name="_1_1_sciencebasic_chapter_1">1.1 विज्ञान मूल अध्याय 1</string>
+    <string name="_1_2_sciencebasic_chapter_2">1.2 विज्ञान मूल अध्याय 2</string>
+    <string name="_2_1_waves_chapter_1">2.1 चैप्टर वेव्स 1</string>
+    <string name="_2_2_waves_chapter_2">2.2 चैप्टर वेव्सr 2</string>
+    <string name="_3_1_thermodynamics_chapter_1">3.1 ऊष्मप्रवैगिकी अध्याय 1</string>
+    <string name="_3_2_thermodynamics_chapter_2">3.2 ऊष्मप्रवैगिकी अध्यायpter 2</string>
+
+    <string name="_1_integrations">1. एकीकरण</string>
+    <string name="_2_differentiation">2. भेदभाव</string>
+    <string name="algebra">3. बीजगणित</string>
+    <string name="_1_1_Integration_chapter_1">1.1 एकीकरण अध्याय 1</string>
+    <string name="_1_2_Integration_chapter_2">1.2 एकीकरण अध्यायr 2</string>
+    <string name="_2_1_differentation_chapter_1">2.1 भेद अध्याय 1</string>
+    <string name="_2_2_differentation_chapter_2">2.2 भेद अध्याय 2</string>
+    <string name="_3_1_Algebra_chapter_1">3.1 बीजगणित का अध्याय 1</string>
+    <string name="_3_2_Algebra_chapter_2">3.2 बीजगणित का अध्याय 2</string>
+
+
+    <string name="view">प्रदर्शन</string>
+    <string name="hide">छिपाना</string>
+    <string name="available_offline">available offline</string>
+    <string name="downloading">Dowloading..</string>
+    <string name="android">एंड्रॉयड</string>
+    <string name="_15_feb_24_april">15 फरवरी - 24 अप्रैल</string>
+    <string name="_30">30 %</string>
+    <string name="_0">0 %</string>
+    <string name="history">इतिहास</string>
+    <string name="science">विज्ञान</string>
+    <string name="self_study">स्वयं अध्ययन</string>
+    <string name="are_you_sure_you_want_to_start_this_session">क्या आप वाकई इस सत्र को शुरू करना चाहते हैं ?</string>
+    <string name="details">Details</string>
+    <string name="quiz">Quiz</string>
+    <string name="cont">Continue</string>
+    <string name="view_details">विवरण</string>
+    <string name="play">Play</string>
+    <string name="educate">शिक्षित</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="kannanda">Kannanda</string>
+    <string name="_2_sessions_4_chapters">2 सत्र 4 अध्याय</string>
+    <string name="please_select_a_chapter_to_play_video">कृपया वीडियो चलाने के लिए एक अध्याय चुनें</string>
+    <string name="download_session">डाउनलोड सत्र</string>
+    <string name="download_chapter">अध्याय डाउनलोड करें</string>
+    <string name="downloaded">डाउनलोड</string>
+    <string name="_7k_learner">7k सीखने वाला</string>
+
+
+</resources>

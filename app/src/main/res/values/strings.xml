@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">OnlineClasses</string>
+    <string name="schedule">Schedule</string>
+    <string name="math">Math</string>
+    <string name="_23_jan_23_march">23 Jan - 23 March</string>
+    <string name="startsession">Start</string>
+    <string name="_65">65 %</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_8_hours">8 Hours</string>
+    <string name="_90_days_access">90 days access</string>
+    <string name="_3_sessions">2 Sessions</string>
+    <string name="what_will_i_learn">What will i learn</string>
+    <string name="what_will_i_learn_android_details">Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. After this course you will be able design the mobile app for android platform</string>
+    <string name="what_will_i_learn_math_details">Mathematics includes the study of such topics as quantity, structure, space, and change. It has no generally accepted definition. Mathematicians seek and use patterns to formulate new conjectures; they resolve the truth or falsity of such by mathematical proof.</string>
+    <string name="what_will_i_learn_history_details">You will get learn about the history of the world as well as india. History is basically divided into three parts , Ancient , Medieval , Modern . In ancient history you will learn about the kings and their empire but we will mainly focus on the modern history.</string>
+    <string name="what_will_i_learn_science_details">Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. You will learn about the recent research and various topics such as Kinematics , Waves , thermodynamics etc.</string>
+
+    <string name="Skill_you_gain">Skill you gain</string>
+
+    <string name="_1_programming">1. Coding.</string>
+    <string name="_2_r_programming_and_its_packages">2. About android sdk and usses of support library</string>
+    <string name="_3_algorithm">3. Algorithm</string>
+
+    <string name="_1_calculus">1. Calculus.</string>
+    <string name="_2_r_integration">2. Integration</string>
+    <string name="_3_Probability">3. Probability</string>
+
+    <string name="_1_medival">1. Medival History.</string>
+    <string name="_2_ancient">2. Ancient History</string>
+    <string name="_3_modern">3. Modern History</string>
+
+    <string name="_1_practice_roblems">1. Practice problems.</string>
+    <string name="_2_theory">2. Deep theoretical knowledge</string>
+    <string name="_3_basic">3. Basic concepts</string>
+
+
+    <string name="_1_android_basic">1. Android Basic</string>
+    <string name="_2_activity_lifecycle">2. Activity Lifecycle</string>
+    <string name="fragment">3. Fragment</string>
+    <string name="_1_1_androidbasic_chapter_1">1.1 Android Basic chapter 1</string>
+    <string name="_1_2_androidbasic_chapter_2">1.2 Android Basic chapter 2</string>
+    <string name="_2_1_activitylifecycle_chapter_1">2.1 Activity lifecycle chapter 1</string>
+    <string name="_2_2_activitylifecycle_chapter_2">2.2 Activity lifecycle chapter 2</string>
+    <string name="_3_1_fragment_chapter_1">3.1 Fragment chapter 1</string>
+    <string name="_3_2_fragment_chapter_2">3.2 Fragment chapter 2</string>
+
+    <string name="_1_ancient">1. Ancient History</string>
+    <string name="_2_medieval">2. Medieval History</string>
+    <string name="modern">3. Modern History</string>
+    <string name="_1_1_Ancient_chapter_1">1.1 Ancient History chapter 1</string>
+    <string name="_1_2_Ancient_chapter_2">1.2 Ancient History chapter 2</string>
+    <string name="_2_1_medieval_chapter_1">2.1 Medieval History chapter 1</string>
+    <string name="_2_2_medieval_chapter_2">2.2 Medieval History chapter 2</string>
+    <string name="_3_1_modern_chapter_1">3.1 Modern History chapter 1</string>
+    <string name="_3_2_modern_chapter_2">3.2 Modern History 2</string>
+
+    <string name="_1_science_basic">1. Science Basic</string>
+    <string name="_2_waves">2. Waves</string>
+    <string name="thermodynamics">3. Thermodynamics</string>
+    <string name="_1_1_sciencebasic_chapter_1">1.1 Science Basic chapter 1</string>
+    <string name="_1_2_sciencebasic_chapter_2">1.2 Science Basic chapter 2</string>
+    <string name="_2_1_waves_chapter_1">2.1 Waves chapter 1</string>
+    <string name="_2_2_waves_chapter_2">2.2 Waves chapter 2</string>
+    <string name="_3_1_thermodynamics_chapter_1">3.1 Thermodynamics chapter 1</string>
+    <string name="_3_2_thermodynamics_chapter_2">3.2 Thermodynamics chapter 2</string>
+
+
+    <string name="_1_integrations">1. Integrations</string>
+    <string name="_2_differentiation">2. Differentiation</string>
+    <string name="algebra">3. Algebra</string>
+    <string name="_1_1_Integration_chapter_1">1.1 Integration chapter 1</string>
+    <string name="_1_2_Integration_chapter_2">1.2 Integration chapter 2</string>
+    <string name="_2_1_differentation_chapter_1">2.1 Differentation chapter 1</string>
+    <string name="_2_2_differentation_chapter_2">2.2 Differentation chapter 2</string>
+    <string name="_3_1_Algebra_chapter_1">3.1 Algebra chapter 1</string>
+    <string name="_3_2_Algebra_chapter_2">3.2 Algebra chapter 2</string>
+
+
+    <string name="view">View</string>
+    <string name="hide">Hide</string>
+    <string name="available_offline">available offline</string>
+    <string name="downloading">Dowloading..</string>
+    <string name="android">Android</string>
+    <string name="_15_feb_24_april">15 Feb - 24 April</string>
+    <string name="_30">30 %</string>
+    <string name="_0">0 %</string>
+    <string name="history">History</string>
+    <string name="science">Science</string>
+    <string name="self_study">Self Study</string>
+    <string name="are_you_sure_you_want_to_start_this_session">Are you sure you want to start this session ?</string>
+    <string name="details">Details</string>
+    <string name="quiz">Quiz</string>
+    <string name="cont">Continue</string>
+    <string name="view_details">Details</string>
+    <string name="play">Play</string>
+    <string name="educate">Educate</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="kannanda">Kannanda</string>
+    <string name="_2_sessions_4_chapters">2 sessions        4 chapters</string>
+    <string name="please_select_a_chapter_to_play_video">Please select a chapter to play video</string>
+    <string name="download_session">Download session</string>
+    <string name="download_chapter">Download chapter</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="_7k_learner">7k learner</string>
+</resources>

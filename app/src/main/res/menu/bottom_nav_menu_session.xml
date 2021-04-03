@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/session_media"
+        android:icon="@drawable/book"
+        android:title="@string/details" />
+
+    <item
+        android:id="@+id/coach"
+        android:icon="@drawable/quiz"
+        android:title="@string/quiz" />
+</menu>
+
+<!--    android:icon="@drawable/session_nw"-->
+<!--    android:icon="@drawable/profile_black_nw"-->

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule">ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="math">ಮಠ</string>
+    <string name="_23_jan_23_march">23 ಜನವರಿ - 23 ಮಾರ್ಚ್</string>
+    <string name="startsession">Start</string>
+    <string name="_65">65 %</string>
+    <string name="_8_hours">8 ಗಂಟೆಗಳು</string>
+    <string name="_90_days_access">90 ದಿನಗಳ ಪ್ರವೇಶ</string>
+    <string name="_3_sessions">2 ಸೆಷನ್‌ಗಳು</string>
+    <string name="what_will_i_learn">ನಾನು ಏನು ಕಲಿಯುತ್ತೇನೆ</string>
+    <string name="what_will_i_learn_android_details">ಆಂಡ್ರಾಯ್ಡ್ ಎನ್ನುವುದು ಲಿನಕ್ಸ್ ಕರ್ನಲ್ ಮತ್ತು ಇತರ ಓಪನ್ ಸೋರ್ಸ್ ಸಾಫ್ಟ್‌ವೇರ್‌ನ ಮಾರ್ಪಡಿಸಿದ ಆವೃತ್ತಿಯನ್ನು ಆಧರಿಸಿದ ಮೊಬೈಲ್ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ ಆಗಿದೆ, ಇದನ್ನು ಮುಖ್ಯವಾಗಿ ಟಚ್‌ಸ್ಕ್ರೀನ್ ಮೊಬೈಲ್ ಸಾಧನಗಳಾದ ಸ್ಮಾರ್ಟ್‌ಫೋನ್‌ಗಳು ಮತ್ತು ಟ್ಯಾಬ್ಲೆಟ್‌ಗಳಿಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಈ ಕೋರ್ಸ್ ನಂತರ ನೀವು ಆಂಡ್ರಾಯ್ಡ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಾಗಿ ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ</string>
+    <string name="what_will_i_learn_math_details">ಗಣಿತಶಾಸ್ತ್ರವು ಪ್ರಮಾಣ, ರಚನೆ, ಸ್ಥಳ ಮತ್ತು ಬದಲಾವಣೆಯಂತಹ ವಿಷಯಗಳ ಅಧ್ಯಯನವನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದಕ್ಕೆ ಸಾಮಾನ್ಯವಾಗಿ ಸ್ವೀಕರಿಸಿದ ವ್ಯಾಖ್ಯಾನವಿಲ್ಲ. ಗಣಿತಜ್ಞರು ಹೊಸ ures ಹೆಗಳನ್ನು ರೂಪಿಸಲು ಮಾದರಿಗಳನ್ನು ಹುಡುಕುತ್ತಾರೆ ಮತ್ತು ಬಳಸುತ್ತಾರೆ; ಅವರು ಗಣಿತದ ಪುರಾವೆಗಳಿಂದ ಅಂತಹ ಸತ್ಯ ಅಥವಾ ಸುಳ್ಳನ್ನು ಪರಿಹರಿಸುತ್ತಾರೆ.</string>
+    <string name="what_will_i_learn_history_details">ನೀವು ವಿಶ್ವದ ಇತಿಹಾಸ ಮತ್ತು ಭಾರತದ ಬಗ್ಗೆ ಕಲಿಯುವಿರಿ. ಇತಿಹಾಸವನ್ನು ಮೂಲತಃ ಪ್ರಾಚೀನ, ಮಧ್ಯಕಾಲೀನ, ಆಧುನಿಕ ಎಂದು ಮೂರು ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಪ್ರಾಚೀನ ಇತಿಹಾಸದಲ್ಲಿ ನೀವು ರಾಜರು ಮತ್ತು ಅವರ ಸಾಮ್ರಾಜ್ಯದ ಬಗ್ಗೆ ಕಲಿಯುವಿರಿ ಆದರೆ ನಾವು ಮುಖ್ಯವಾಗಿ ಆಧುನಿಕ ಇತಿಹಾಸದ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತೇವೆ.</string>
+    <string name="what_will_i_learn_science_details">ವಿಜ್ಞಾನವು ವ್ಯವಸ್ಥಿತ ಉದ್ಯಮವಾಗಿದ್ದು ಅದು ಬ್ರಹ್ಮಾಂಡದ ಬಗ್ಗೆ ಪರೀಕ್ಷಿಸಬಹುದಾದ ವಿವರಣೆಗಳು ಮತ್ತು ಮುನ್ನೋಟಗಳ ರೂಪದಲ್ಲಿ ಜ್ಞಾನವನ್ನು ನಿರ್ಮಿಸುತ್ತದೆ ಮತ್ತು ಸಂಘಟಿಸುತ್ತದೆ. ಇತ್ತೀಚಿನ ಸಂಶೋಧನೆ ಮತ್ತು ಕೈನೆಮ್ಯಾಟಿಕ್ಸ್, ವೇವ್ಸ್, ಥರ್ಮೋಡೈನಾಮಿಕ್ಸ್ ಮುಂತಾದ ವಿವಿಧ ವಿಷಯಗಳ ಬಗ್ಗೆ ನೀವು ಕಲಿಯುವಿರಿ.</string>
+    <string name="Skill_you_gain">ನೀವು ಗಳಿಸುವ ಕೌಶಲ್ಯ</string>
+
+    <string name="_1_programming">1. ಕೋಡಿಂಗ್.</string>
+    <string name="_2_r_programming_and_its_packages">2. ಆಂಡ್ರಾಯ್ಡ್ ಎಸ್‌ಡಿಕೆ ಮತ್ತು ಬೆಂಬಲ ಗ್ರಂಥಾಲಯದ ಬಳಕೆಗಳ ಬಗ್ಗೆ</string>
+    <string name="_3_algorithm">3. ಅಲ್ಗಾರಿದಮ್</string>
+
+    <string name="_1_calculus">1. ಕ್ಯಾಲ್ಕುಲಸ್.</string>
+    <string name="_2_r_integration">2. ಏಕೀಕರಣ</string>
+    <string name="_3_Probability">3. ಸಂಭವನೀಯತೆ</string>
+
+    <string name="_1_medival">1. ಮಧ್ಯಕಾಲೀನ ಇತಿಹಾಸ.</string>
+    <string name="_2_ancient">2. ಪ್ರಾಚೀನ ಇತಿಹಾಸ</string>
+    <string name="_3_modern">3. ಆಧುನಿಕ ಇತಿಹಾಸ</string>
+
+    <string name="_1_practice_roblems">1. ಸಮಸ್ಯೆಗಳನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.</string>
+    <string name="_2_theory">2. ಆಳವಾದ ಸೈದ್ಧಾಂತಿಕ ಜ್ಞಾನ</string>
+    <string name="_3_basic">3. ಮೂಲ ಪರಿಕಲ್ಪನೆಗಳು</string>
+
+
+    <string name="_1_android_basic">1. ಆಂಡ್ರಾಯ್ಡ್ ಬೇಸಿಕ್</string>
+    <string name="_2_activity_lifecycle">2. ಚಟುವಟಿಕೆ ಜೀವನಚಕ್ರ</string>
+    <string name="fragment">3. ತುಣುಕು</string>
+    <string name="_1_1_androidbasic_chapter_1">1.1 ಆಂಡ್ರಾಯ್ಡ್ ಮೂಲ ಅಧ್ಯಾಯ 1</string>
+    <string name="_1_2_androidbasic_chapter_2">1.2 ಆಂಡ್ರಾಯ್ಡ್ ಮೂಲ ಅಧ್ಯಾಯ 2</string>
+    <string name="_2_1_activitylifecycle_chapter_1">2.1 ಚಟುವಟಿಕೆ ಜೀವನಚಕ್ರ ಅಧ್ಯಾಯ 1</string>
+    <string name="_2_2_activitylifecycle_chapter_2">2.2 ಚಟುವಟಿಕೆ ಜೀವನಚಕ್ರ ಅಧ್ಯಾಯ 2</string>
+    <string name="_3_1_fragment_chapter_1">3.1 ತುಣುಕು ಅಧ್ಯಾಯ 1</string>
+    <string name="_3_2_fragment_chapter_2">3.2 ತುಣುಕು ಅಧ್ಯಾಯ 2</string>
+
+    <string name="_1_ancient">1. ಪುರಾತನ ಇತಿಹಾಸ</string>
+    <string name="_2_medieval">2. ಮಧ್ಯಕಾಲೀನ ಇತಿಹಾಸ</string>
+    <string name="modern">3. ಆಧುನಿಕ ಇತಿಹಾಸy</string>
+    <string name="_1_1_Ancient_chapter_1">1.1 ಪ್ರಾಚೀನ ಇತಿಹಾಸ ಅಧ್ಯಾಯ 1</string>
+    <string name="_1_2_Ancient_chapter_2">1.2 ಪ್ರಾಚೀನ ಇತಿಹಾಸ ಅಧ್ಯಾಯ 2</string>
+    <string name="_2_1_medieval_chapter_1">2.1 ಮಧ್ಯಕಾಲೀನ ಇತಿಹಾಸ ಅಧ್ಯಾಯ 1</string>
+    <string name="_2_2_medieval_chapter_2">2.2 ಮಧ್ಯಕಾಲೀನ ಇತಿಹಾಸ ಅಧ್ಯಾಯ 2</string>
+    <string name="_3_1_modern_chapter_1">3.1 ಆಧುನಿಕ ಇತಿಹಾಸ ಅಧ್ಯಾಯ 1</string>
+    <string name="_3_2_modern_chapter_2">3.2 ಆಧುನಿಕ ಇತಿಹಾಸ 2</string>
+
+    <string name="_1_science_basic">1. ವಿಜ್ಞಾನ ಮೂಲc</string>
+    <string name="_2_waves">2. ಅಲೆಗಳು</string>
+    <string name="thermodynamics">3. ಥರ್ಮೋಡೈನಾಮಿಕ್ಸ್</string>
+    <string name="_1_1_sciencebasic_chapter_1">1.1 ವಿಜ್ಞಾನ ಮೂಲ ಅಧ್ಯಾಯ 1</string>
+    <string name="_1_2_sciencebasic_chapter_2">1.2 ವಿಜ್ಞಾನ ಮೂಲ ಅಧ್ಯಾಯ 2</string>
+    <string name="_2_1_waves_chapter_1">2.1 ಅಲೆಗಳು ಅಧ್ಯಾಯ 1</string>
+    <string name="_2_2_waves_chapter_2">2.2 ಅಲೆಗಳು ಅಧ್ಯಾಯ 2</string>
+    <string name="_3_1_thermodynamics_chapter_1">3.1 ಥರ್ಮೋಡೈನಾಮಿಕ್ಸ್ ಅಧ್ಯಾಯ 1</string>
+    <string name="_3_2_thermodynamics_chapter_2">3.2 ಥರ್ಮೋಡೈನಾಮಿಕ್ಸ್ ಅಧ್ಯಾಯ 2</string>
+
+
+    <string name="_1_integrations">1. ಸಂಯೋಜನೆಗಳು</string>
+    <string name="_2_differentiation">2. ವ್ಯತ್ಯಾಸ</string>
+    <string name="algebra">3. ಬೀಜಗಣಿತ</string>
+    <string name="_1_1_Integration_chapter_1">1.1 ಏಕೀಕರಣ ಅಧ್ಯಾಯ 1</string>
+    <string name="_1_2_Integration_chapter_2">1.2 ಏಕೀಕರಣ ಅಧ್ಯಾಯ 2</string>
+    <string name="_2_1_differentation_chapter_1">2.1 ವ್ಯತ್ಯಾಸ ಅಧ್ಯಾಯ 1</string>
+    <string name="_2_2_differentation_chapter_2">2.2 ವ್ಯತ್ಯಾಸ ಅಧ್ಯಾಯ 2</string>
+    <string name="_3_1_Algebra_chapter_1">3.1 ಬೀಜಗಣಿತ ಅಧ್ಯಾಯ 1</string>
+    <string name="_3_2_Algebra_chapter_2">3.2 ಬೀಜಗಣಿತ ಅಧ್ಯಾಯ 2</string>
+
+
+    <string name="view">ಪ್ರದರ್ಶನ</string>
+    <string name="hide">ಮರೆಮಾಡಿ</string>
+    <string name="available_offline">available offline</string>
+    <string name="downloading">Dowloading..</string>
+    <string name="android">ಯಂತ್ರಮಾನವ</string>
+    <string name="_15_feb_24_april">15 ಫೆಬ್ರವರಿ - 24 ಏಪ್ರಿಲ್</string>
+    <string name="_30">30 %</string>
+    <string name="_0">0 %</string>
+    <string name="history">ಇತಿಹಾಸ</string>
+    <string name="science">ವಿಜ್ಞಾನ</string>
+    <string name="self_study">ಸ್ವಯಂ ಅಧ್ಯಯನ</string>
+    <string name="are_you_sure_you_want_to_start_this_session">ಈ ಅಧಿವೇಶನವನ್ನು ಪ್ರಾರಂಭಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ? ?</string>
+    <string name="details">Details</string>
+    <string name="quiz">Quiz</string>
+    <string name="cont">Continue</string>
+    <string name="view_details">ವಿವರಗಳನ್ನು</string>
+    <string name="play">Play</string>
+    <string name="educate">ಶಿಕ್ಷಣ</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="kannanda">Kannanda</string>
+    <string name="_2_sessions_4_chapters">2 ಅಧಿವೇಶನ 4 ಅಧ್ಯಾಯಗಳು</string>
+    <string name="please_select_a_chapter_to_play_video">ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲು ದಯವಿಟ್ಟು ಅಧ್ಯಾಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="download_session">ಅಧಿವೇಶನವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="download_chapter">ಅಧ್ಯಾಯವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="downloaded">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="_7k_learner">7 ಕೆ ಕಲಿಯುವವರು</string>
+</resources>
